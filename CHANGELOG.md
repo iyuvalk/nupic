@@ -1,5 +1,7 @@
 # Changelog
 
+
+
 ## 1.0.5
 
 * d81e128c6 NUP-2519: Update nupic.core version
