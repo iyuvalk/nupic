@@ -11,7 +11,12 @@
 
 ## 1.0.4
 
-* 682fd2e66c6d45912cd9c518106740143eff9fd9 :  NUP-2506: Add test to all Serializable subclasses and fix related issues  (#3826)
+* 682fd2e66c6d45912cd9c518106740143eff9fd9 :  NUP-2506: Add te
+* 
+* 
+* 
+* 
+* st to all Serializable subclasses and fix related issues  (#3826)
 * a7ab556a64e57064a8febbcf2ee341a1b1ff18ae : NUP-2506: fix traversal limit (#3823)
 * 54e1ffead7a8cedd9a2dab08bb02c7e5e3536bf3 : Added holidays parameter to date encoder (#3822)
 * 9bb7705ebd428e73f6efc180e77f7f127ce67c4d : version lock 'sphinx-autobuild' dependency 'tornado' (#3815)
